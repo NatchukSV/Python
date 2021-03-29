@@ -17,3 +17,4 @@ let repl_queue=$Read_Master_Log_Pos-$Exec_Master_Log_Pos
 echo $repl_queue
 
 exit 0
+Exec_Master_Log_Pos
